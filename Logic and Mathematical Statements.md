@@ -29,7 +29,7 @@ Now let's consider a statement involving some mathematics. Take the statement "I
 
 ###  <font color= 6FBCE1> Negation of "For every ...", "For all ...", "There exists ..."</font>
 Sometimes we encounter phrases such as "for every," "for any," "for all" and "there exists" in mathematical statements.
-Example.
+#### <font color= E675A7> Example.</font>
 Consider the statement "For all integers n, either n is even or n is odd". Although the phrasing is a bit different, this is a statement of the form "If A, then B." We can reword this sentence as follows: "If n is any integer, then either n is even or n is odd."
 
 How would we negate this statement? For this statement to be false, all we would need is to find a single integer which is not even and not odd. In other words, the negation is the statement "There exists an integer n, so that n is not even and n is not odd."
