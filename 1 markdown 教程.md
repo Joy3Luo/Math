@@ -63,6 +63,15 @@ printf("%d\n", a);
    > 第二条很重要。
 1. 第三条
 
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
 
 ***
 bbb
@@ -78,3 +87,8 @@ bbb
 </details>
 
 $\vartheta$
+
+This is very heavily **emphasized** __text__.
+
+
+add &nbsp; in text space
